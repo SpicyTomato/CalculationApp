@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Summary_Test</string>
+    <string name="home_fragment_title">Welcome</string>
+    <string name="run_fragment_title">testing...</string>
+    <string name="result_fragment_title">Victory</string>
+    <string name="lose_fragment_title">Defeat</string>
+
+
+    <string name="back">back</string>
+    <string name="home_button">StartTest</string>
+    <string name="home_high_score">HighScore:%d</string>
+    <string name="home_message">CalculationTest</string>
+    <string name="run_button_commit">commit</string>
+    <string name="run_button_delete">back</string>
+    <string name="run_hint">Start</string>
+    <string name="run_score">CurrentScore:%d</string>
+    <string name="run_textView_5_correct_message">Congratulations!</string>
+    <string name="run_textView_5_input_message">Please input your anser</string>
+    <string name="this_result">Your Score:%d</string>
+    <string name="win_message">Victory</string>
+</resources>
